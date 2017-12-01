@@ -1,3 +1,11 @@
+#*************************************************************************************************
+# Use Latent Semantic Analysis to search your pages. Given a search query, find the top 5 related  
+# articles to the search query. Use SVD and cosine similarity. 
+#
+# This script runs the code via a python script 
+# >>python3 finalqueryapp.py
+#*************************************************************************************************
+
 # Import my functions from 
 import lib.wiki_utilities as wiki
 import lib.mongo_utilities as mongo
